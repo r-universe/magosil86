@@ -1,14 +1,14 @@
 [
   {
+    "package": "getspres",
+    "oncran": true
+  },
+  {
     "package": "bumblebee",
     "oncran": true
   },
   {
     "package": "getmstatistic",
-    "oncran": true
-  },
-  {
-    "package": "getspres",
     "oncran": true
   }
 ]
