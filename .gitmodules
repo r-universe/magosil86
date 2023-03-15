@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "getspres"]
-	path = getspres
-	url = https://github.com/magosil86/getspres
-	shallow = true
-	registered = true
 [submodule "bumblebee"]
 	path = bumblebee
 	url = https://github.com/magosil86/bumblebee
@@ -16,5 +11,10 @@
 [submodule "getmstatistic"]
 	path = getmstatistic
 	url = https://github.com/magosil86/getmstatistic
+	shallow = true
+	registered = true
+[submodule "getspres"]
+	path = getspres
+	url = https://github.com/magosil86/getspres
 	shallow = true
 	registered = true
